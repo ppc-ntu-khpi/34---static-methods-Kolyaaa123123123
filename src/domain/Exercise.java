@@ -1,7 +1,22 @@
 package domain;
 
+/**
+ * Method "Palindrom" takes array (type char) and returning boolean value 
+ * @author Kolya
+ */
 public class Exercise {
-    public static float Calculate(int R){
-        return (float) (2*Math.PI*Math.sqrt(R));
+    public static boolean Palindrom(char[] word){
+    int i1 = 0;
+    int i2 = word.length - 1;
+    while (i2 > i1) {
+        if (word[i1] != word[i2]) {
+            return false;
+        }
+        ++i1;
+        --i2;
     }
+    return true;
+    }
+      
 }
+
