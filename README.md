@@ -1,3 +1,9 @@
+# 11. Перевірити чи задане слово є [анаграмою](https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0) іншого заданого слова (метод ```Palindrom``` має повернути булевське значення)
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-Kolyaaa123123123/blob/master/images/2.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-Kolyaaa123123123/blob/master/images/1.png" width="100%"/>
+
+
+
 # Практична робота "Створення і використання статичних методів"
 Цей репозиторій містить стартовий код для виконання практичної роботи, який містить заготовки двох класів, якідемонструють структуру проекту для виконання завдань "обчислювального характеру"
 <img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
